@@ -1,0 +1,18 @@
+# Need to initial one time for every repo
+
+git init
+
+
+# " . " for everything 
+
+git add .
+
+
+# Should gave a meanigful name for every change inside quoatation
+
+git commit -m "first commit"
+
+
+git branch -M main
+git remote add origin https://github.com/Rimon-Devop/trial-rep.git
+git push -u origin main
